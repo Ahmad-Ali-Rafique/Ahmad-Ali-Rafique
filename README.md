@@ -18,3 +18,6 @@ Throughout my career, I have demonstrated a commitment to continuous learning an
 I am dedicated to using my analytical skills and technical expertise to contribute to business growth and innovation. Let's connect to explore how we can leverage data and AI to transform your business operations and achieve your strategic goals.
 
 ### Empowering Your Business with Data-Driven Insights
+
+Here's my CV
+[Ahmad Ali (CV)](https://drive.google.com/file/d/1bNLIx1j85e8ax21ZEC0DPt5C1at8vHjv/view?usp=sharing)
