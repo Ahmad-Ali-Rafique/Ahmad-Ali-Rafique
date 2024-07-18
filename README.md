@@ -15,8 +15,6 @@ Throughout my career, I have demonstrated a commitment to continuous learning an
 - **Deep Learning & NLP:** Advanced knowledge in applying deep learning algorithms and natural language processing to solve real-world problems.
 - **AI Chatbots & Generative AI:** Experienced in developing intelligent chatbots and generative AI applications to enhance user interactions.
 
-  [Watch my introduction video]([https://github.com/your_username/your_repository/blob/main/path_to_your_video_file.mp4](https://github.com/Ahmad-Ali-Rafique/Ahmad-Ali-Rafique/blob/main/Introducing%20Ahmad%20Ali%20My%20Journey%20in%20AI%20and%20ML%20Skills%2C%20Projects%2C%20and%20Expertise.mp4))
-
 I am dedicated to using my analytical skills and technical expertise to contribute to business growth and innovation. Let's connect to explore how we can leverage data and AI to transform your business operations and achieve your strategic goals.
 
 ### Empowering Your Business with Data-Driven Insights
