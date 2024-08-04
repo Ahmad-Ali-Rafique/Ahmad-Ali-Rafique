@@ -20,4 +20,4 @@ I am dedicated to using my analytical skills and technical expertise to contribu
 ### Empowering Your Business with Data-Driven Insights
 
 Here's my CV
-[Ahmad Ali (CV)](https://drive.google.com/drive/u/0/folders/1yCixB35-V2LQ4A6k6JWror9_22W3-BD8)
+[Ahmad Ali (CV)](https://drive.google.com/file/d/1_wkmgQAxZ9GFmGYQDEuzycQ9_lCyT0kd/view?usp=drive_link)
