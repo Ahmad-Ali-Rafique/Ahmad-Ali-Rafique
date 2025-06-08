@@ -71,7 +71,7 @@ Let’s collaborate on something **extraordinary**.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AhmadAliRafique/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmad_ali_rafique/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ahmad_ali_rafique)
-[![Download CV](https://img.shields.io/badge/Download_CV-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ugAsGEL9fs-dySqs-pJHlek4NqgeKZqs/view?usp=drive_link)
+[![Download CV](https://img.shields.io/badge/Download_CV-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VZaJabL4HDYfk2-3fBmrfZr4NBSRvcVJ/view?usp=sharing)
 
 ---
 
