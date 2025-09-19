@@ -1,6 +1,3 @@
-[![Watch the video](https://i.postimg.cc/PJDrR8S7/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=Nu24yaK05do))
-
-
 # 🚀 Transforming Data into Intelligent Business Solutions!
 
 **👋 Welcome to my GitHub Profile! I'm Ahmad Ali Rafique.**
