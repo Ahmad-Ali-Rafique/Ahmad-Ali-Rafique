@@ -1,13 +1,14 @@
-# 🚀 Transforming Data into Intelligent Business Solutions!
+# 🤖 Transforming Businesses with AI Automation & Intelligent Systems  
 
-**👋 Welcome to my GitHub Profile! I'm Ahmad Ali Rafique.**
+**Welcome to my GitHub Profile!**  
+I design **AI-driven solutions** that help businesses **communicate smarter, automate workflows, and scale 10x faster.**
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Ahmad-Ali-Rafique&color=green)
 ![GitHub Followers](https://img.shields.io/github/followers/Ahmad-Ali-Rafique?label=Follow&style=social)
 
 ---
 
-🎯 **AI | Machine Learning | GenAI | Automation | Chatbots | FastAPI | n8n**
+🎯 **AI Automation Specialist | Machine Learning | GenAI | Chatbots | FastAPI | n8n**
 
 A passionate and driven **AI & Machine Learning Specialist** helping startups, educators, and businesses harness the power of AI to **build intelligent tools**, **automate workflows**, and unlock *data-driven growth**.
 
